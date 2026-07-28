@@ -1,6 +1,6 @@
 # TailorHub
-A full-stack tailoring management platform to manage customer measurements, stitching orders, estimates, payments, and delivery workflow.
+A full-stack platform that streamlines tailoring businesses with online order management, customer measurements, quotations, payments, and delivery tracking.
 # Tech Stack
-React | FastAPI | MySQL | SQLAlchemy | JWT Authentication
+React.js • FastAPI • MySQL • SQLAlchemy ORM • JWT Authentication • REST APIs
 # Project vision
-TailorHub digitizes traditional tailoring businesses by connecting customers and tailors through online orders, measurement management, quotation approval, payment tracking, and stitching workflow management.
+TailorHub is inspired by a real tailoring business and aims to digitize the entire tailoring workflow—from customer orders and measurements to quotations, secure payments, stitching progress, and delivery management.
